@@ -1,5 +1,5 @@
 # Pomodoro Timer
----
+
 ## Description
 This Pomodoro Timer application is a productivity tool based on the Pomodoro Technique. It helps users manage their work and break intervals efficiently. The app is built using Python and the Tkinter library for the graphical user interface (GUI).
 
